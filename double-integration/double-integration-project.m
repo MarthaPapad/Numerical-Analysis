@@ -1,7 +1,6 @@
 % Ypologistika Mathhmatika I
 % Project 3
 % Martha Papadopoulou
-% AEM 4438
 
 clear; clc; close all;
 
