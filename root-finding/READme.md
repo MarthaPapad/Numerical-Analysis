@@ -1,1 +1,1 @@
-This project's objective is to solve the equation  (e^x + x - 2 = 0)  using the Bisection method, the False Position method, and Fixed Point Iteration, while providing a convergence plot for each method. The code is written in MATLAB.
+This project's objective is to solve the equation  (e^x + x - 2 = 0)  using the Bisection method, the False Position method, and Fixed Point Iteration, while providing a convergence plot for each method.
