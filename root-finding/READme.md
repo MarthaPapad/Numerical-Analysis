@@ -1,1 +1,1 @@
-This project's objective is to solve the equation  (e^x + x - 2 = 0)  using the Bisection method, the False Position method, and Fixed Point Iteration, while providing a convergence plot for each method.
+This project's objective is to solve the equation  (e^x + x - 2 = 0)  using the Bisection Method, the False Position Method, and Fixed Point Iteration, while providing a convergence plot for each method.
