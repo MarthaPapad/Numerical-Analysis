@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Numerical analysis projects in MATLAB
+This repository is dedicated to the Numerical Analysis course within the master's program in Computational Physics at Aristotle University of Thessaloniki.
